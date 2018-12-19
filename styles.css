@@ -10,10 +10,6 @@ body {
     margin: 0px;
     min-height: 5000px;
     background: linear-gradient(to right, #1f5ff4 0%,#2989d8 0%,#f727f3 100%,#7db9e8 100%);
-
-    /* background-image: linear-gradient(rgb(36, 255, 233),rgb(0, 0, 0),rgb(36, 255, 233)); */
-    /* background-image: linear-gradient(rgb(36, 255, 233),rgb(0, 0, 0),rgb(36, 255, 233)); */
-
 }
 
 .card-image img {
