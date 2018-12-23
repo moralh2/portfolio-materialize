@@ -11,6 +11,9 @@ $(".portfolio-click").click(function () {
   if (!loaded) {
     loaded = true
     loadItems()
+    $('html, body').animate({
+      scrollTop: ($('.portfolio').first().offset().top)
+    },500);
   }
 });
 
