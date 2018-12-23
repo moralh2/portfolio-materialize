@@ -101,5 +101,11 @@ var items = [
     code: "https://github.com/moralh2/liri-node-app",
     title: "Liri (Node.js)",
     text: "This assignment used Node.js to run different packages to create a command-line interface (CLI) application, called LIRI. LIRI takes a command and input combination, and then, according to the command, it searches Spotify for a song, Bands in Town for concerts for a particular band or artist, and OMDB for a speicifc movie."
+  },
+  {
+    gif: "gifs/word-guess-inquirer.gif",
+    code: "https://github.com/moralh2/constructor-word-guess",
+    title: "Word-Guess Game (JS Constructors)",
+    text: "Node.js and JS Constructors were used to create a CLI version of the Word-Guess Game, where the user tries to guess the title of a series from Netflix. Using the `inquirer` Node.js package, input from the user is obtained from the command line; and using methods that belong to the `Word` and `Letter` Constructors, validating the user's guess was pretty straightforward."
   }
 ]
