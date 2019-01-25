@@ -110,5 +110,12 @@ var items = [
     code: "https://github.com/moralh2/constructor-word-guess",
     title: "Word-Guess Game (JS Constructors)",
     text: "Node.js and JS Constructors were used to create a CLI version of the Word-Guess Game, where the user tries to guess the title of a series from Netflix. Using the `inquirer` Node.js package, input from the user is obtained from the command line; and using methods that belong to the `Word` and `Letter` Constructors, validating the user's guess was pretty straightforward."
+  },
+  {
+    gif: "gifs/friend-finder.gif",
+    launch: "https://me-friend-finder.herokuapp.com",
+    code: "https://github.com/moralh2/FriendFinder",
+    title: "FriendFinder (NPM, Express)",
+    text: "The FriendFinder app uses a survey to match a user with a friend. A server, created using the express npm package, listens for the POST from the survey submission, then compares the answers to those from other profiles already on record, and responds with the match."
   }
 ]
