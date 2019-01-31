@@ -117,5 +117,12 @@ var items = [
     code: "https://github.com/moralh2/FriendFinder",
     title: "FriendFinder (NPM, Express)",
     text: "The FriendFinder app uses a survey to match a user with a friend. A server, created using the express npm package, listens for the POST from the survey submission, then compares the answers to those from other profiles already on record, and responds with the match."
+  },
+  {
+    gif: "gifs/el-burger.gif",
+    launch: "https://el-burger.herokuapp.com",
+    code: "https://github.com/moralh2/el-burger",
+    title: "El Burger (Express, HandleBars, MySQL)",
+    text: "The el-burger app allows users to 'devour' a burger by clicking on a button, triggering a change for that burger in the database, and for the page to reload, showing the current state of all the data."
   }
 ]
